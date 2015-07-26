@@ -1,0 +1,15 @@
+[ 2015-04-07T23:54:13+08:00 ] 192.168.192.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.012992s ]
+
+[ 2015-04-07T23:54:13+08:00 ] 192.168.192.1 /Auth/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000899s ]
+
+[ 2015-04-07T23:54:14+08:00 ] 192.168.192.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001402s ]
+

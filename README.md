@@ -19,17 +19,6 @@
 
 
 
-**线上体验：**
-[线上Demo](http://http://questionnaire.laorenwangshi.com)  账号密码 admin admin
-
-请勿更改系统配置影响运行, 可以添加试卷问题,答题等等
-使用前, 请关注测试公众号。关注后, 后台管理才能找到你, 才能进一步发放卷子.
-二维码是:
-
-![公众号](http://git.oschina.net/uploads/images/2015/0727/012135_9a10c999_467065.jpeg "在这里输入图片标题")
-
-
-
 ### 项目部署流程
 **前提准备:**
 
